@@ -1,0 +1,8 @@
+body{
+	background: url("./patterns.jpg");
+	background-attachment: fixed;
+}
+
+h2{
+	color: white;
+}
